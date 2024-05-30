@@ -21,6 +21,7 @@ const saveUpdate = (index) => {
 
 const deleteRow = (index) => {
   emit('delete', index);
+  showModal.value = false;
 };
 
 const showModal = ref(false)
@@ -66,12 +67,11 @@ const showModal = ref(false)
           <td>
             <button v-if="editingIndex !== index" class="button1" @click="editRow(index)">Edit</button>
             <button v-else class="button1" @click="saveUpdate(index)">Update</button>
-            <button class="button2" @click="deleteRow(index)">Delete</button>
-            <button class="button2" id="show-modal" @click="showModal = true">Delete Popup</button>
+            <button class="button2" id="show-modal" @click="showModal = true">Delete</button>
 
 <Teleport to="body">
   <!-- use the modal component, pass in the prop -->
-  <DeleteModal :show="showModal" @close="showModal = false">
+  <DeleteModal :show="showModal" @close="showModal = false" @delete="deleteRow(index)">
     <template #header>
       
       <h3><i class="fa fa-exclamation-triangle" aria-hidden="true"></i> NOTIFICATION !!!!</h3>

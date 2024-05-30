@@ -23,7 +23,7 @@ const props = defineProps({
         <div class="modal-footer">
           <slot name="footer">
             
-            <button class="button2" @click="deleteRow(index)">Delete</button>
+            <button class="button2" @click="$emit('delete')">Delete</button>
             <button class="modal-default-button button3" @click="$emit('close')">Close</button>
           </slot>
         </div>
