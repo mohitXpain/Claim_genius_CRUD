@@ -74,7 +74,7 @@ const showModal = ref(false)
   <DeleteModal :show="showModal" @close="showModal = false">
     <template #header>
       
-      <h3><i class="fab fa-vuejs"></i> NOTIFICATION !!!!</h3>
+      <h3><i class="fa fa-exclamation-triangle" aria-hidden="true"></i> NOTIFICATION !!!!</h3>
     </template>
   </DeleteModal>
 </Teleport>
