@@ -1,0 +1,153 @@
+[
+    {
+      "stateCode": "MH",
+      "name": "Maharashtra",
+      "cities": [
+        { "cityCode": "MUM", "name": "Mumbai" },
+        { "cityCode": "PUN", "name": "Pune" },
+        { "cityCode": "NGP", "name": "Nagpur" },
+        { "cityCode": "THN", "name": "Thane" },
+        { "cityCode": "NSK", "name": "Nashik" },
+        { "cityCode": "KD", "name": "Kalyan-Dombivli" },
+        { "cityCode": "VV", "name": "Vasai-Virar" },
+        { "cityCode": "AUR", "name": "Aurangabad" },
+        { "cityCode": "NVM", "name": "Navi Mumbai" },
+        { "cityCode": "SOL", "name": "Solapur" },
+        { "cityCode": "MB", "name": "Mira-Bhayandar" },
+        { "cityCode": "BHI", "name": "Bhiwandi" },
+        { "cityCode": "AMT", "name": "Amravati" },
+        { "cityCode": "NED", "name": "Nanded" },
+        { "cityCode": "KOP", "name": "Kolhapur" },
+        { "cityCode": "ULH", "name": "Ulhasnagar" },
+        { "cityCode": "SNG", "name": "Sangli" },
+        { "cityCode": "JLG", "name": "Jalgaon" },
+        { "cityCode": "AKL", "name": "Akola" },
+        { "cityCode": "LAT", "name": "Latur" },
+        { "cityCode": "DHL", "name": "Dhule" },
+        { "cityCode": "AHN", "name": "Ahmednagar" },
+        { "cityCode": "ICH", "name": "Ichalkaranji" },
+        { "cityCode": "CHA", "name": "Chandrapur" },
+        { "cityCode": "PAR", "name": "Parbhani" },
+        { "cityCode": "JAL", "name": "Jalna" },
+        { "cityCode": "BHS", "name": "Bhusawal" },
+        { "cityCode": "NMP", "name": "Navi Mumbai Panvel Raigad" },
+        { "cityCode": "PNV", "name": "Panvel" },
+        { "cityCode": "HGT", "name": "Hinganghat" },
+        { "cityCode": "BED", "name": "Beed" },
+        { "cityCode": "GON", "name": "Gondia" },
+        { "cityCode": "WAR", "name": "Wardha" },
+        { "cityCode": "MLG", "name": "Malegaon" },
+        { "cityCode": "YTL", "name": "Yavatmal" },
+        { "cityCode": "ACP", "name": "Achalpur" },
+        { "cityCode": "OSM", "name": "Osmanabad" },
+        { "cityCode": "NDB", "name": "Nandurbar" },
+        { "cityCode": "STA", "name": "Satara" },
+        { "cityCode": "BHN", "name": "Bhandara" },
+        { "cityCode": "BRS", "name": "Barshi" },
+        { "cityCode": "MKP", "name": "Malkapur" },
+        { "cityCode": "SHD", "name": "Shirdi" },
+        { "cityCode": "MGP", "name": "Mangrulpir" },
+        { "cityCode": "PUS", "name": "Pusad" },
+        { "cityCode": "MEH", "name": "Mehkar" },
+        { "cityCode": "UMK", "name": "Umarkhed" }
+      ]
+    },
+    {
+      "stateCode": "KA",
+      "name": "Karnataka",
+      "cities": [
+        { "cityCode": "BLR", "name": "Bengaluru" },
+        { "cityCode": "MYR", "name": "Mysuru" },
+        { "cityCode": "HBL", "name": "Hubballi-Dharwad" },
+        { "cityCode": "MNG", "name": "Mangaluru" },
+        { "cityCode": "BLG", "name": "Belagavi" },
+        { "cityCode": "GUL", "name": "Kalaburagi" },
+        { "cityCode": "DVG", "name": "Davangere" },
+        { "cityCode": "BDR", "name": "Ballari" },
+        { "cityCode": "TUM", "name": "Tumakuru" },
+        { "cityCode": "SMG", "name": "Shivamogga" },
+        { "cityCode": "RAI", "name": "Raichur" },
+        { "cityCode": "BGK", "name": "Bagalkot" },
+        { "cityCode": "KLP", "name": "Kolar" },
+        { "cityCode": "KOD", "name": "Kodagu" },
+        { "cityCode": "UDU", "name": "Udupi" }
+      ]
+    },
+    {
+      "stateCode": "MP",
+      "name": "Madhya Pradesh",
+      "cities": [
+        { "cityCode": "BHO", "name": "Bhopal" },
+        { "cityCode": "IND", "name": "Indore" },
+        { "cityCode": "GW", "name": "Gwalior" },
+        { "cityCode": "JAB", "name": "Jabalpur" },
+        { "cityCode": "UJJ", "name": "Ujjain" },
+        { "cityCode": "SAG", "name": "Sagar" },
+        { "cityCode": "RWA", "name": "Rewa" },
+        { "cityCode": "KHA", "name": "Khandwa" },
+        { "cityCode": "RAT", "name": "Ratlam" },
+        { "cityCode": "SHA", "name": "Shahdol" },
+        { "cityCode": "KAT", "name": "Katni" },
+        { "cityCode": "CHA", "name": "Chhindwara" },
+        { "cityCode": "MOR", "name": "Morena" },
+        { "cityCode": "BH", "name": "Bhind" },
+        { "cityCode": "TIK", "name": "Tikamgarh" },
+        { "cityCode": "VID", "name": "Vidisha" },
+        { "cityCode": "DEW", "name": "Dewas" },
+        { "cityCode": "HO", "name": "Hoshangabad" },
+        { "cityCode": "BAL", "name": "Balaghat" },
+        { "cityCode": "SEH", "name": "Sehore" },
+        { "cityCode": "HAR", "name": "Harda" }
+      ]
+    },
+    {
+      "stateCode": "GA",
+      "name": "Goa",
+      "cities": [
+        { "cityCode": "PAN", "name": "Panaji" },
+        { "cityCode": "MAP", "name": "Mapusa" },
+        { "cityCode": "MAR", "name": "Margao" },
+        { "cityCode": "VAS", "name": "Vasco da Gama" },
+        { "cityCode": "POR", "name": "Ponda" }
+      ]
+    },
+    {
+      "stateCode": "TG",
+      "name": "Telangana",
+      "cities": [
+        { "cityCode": "HYD", "name": "Hyderabad" },
+        { "cityCode": "WGL", "name": "Warangal" },
+        { "cityCode": "NLG", "name": "Nalgonda" },
+        { "cityCode": "KHM", "name": "Khammam" },
+        { "cityCode": "KAR", "name": "Karimnagar" },
+        { "cityCode": "MAH", "name": "Mahbubnagar" },
+        { "cityCode": "MED", "name": "Medak" },
+        { "cityCode": "SRD", "name": "Suryapet" },
+        { "cityCode": "JNG", "name": "Jangaon" }
+      ]
+    },
+    {
+        "stateCode": "TN",
+        "name": "Tamil Nadu",
+        "cities": [
+          { "cityCode": "CHN", "name": "Chennai" },
+          { "cityCode": "CBE", "name": "Coimbatore" },
+          { "cityCode": "MDU", "name": "Madurai" },
+          { "cityCode": "TRC", "name": "Tiruchirappalli" },
+          { "cityCode": "ERD", "name": "Erode" },
+          { "cityCode": "VEL", "name": "Vellore" },
+          { "cityCode": "TIR", "name": "Tirunelveli" },
+          { "cityCode": "DHN", "name": "Dindigul" },
+          { "cityCode": "KOV", "name": "Kovai" },
+          { "cityCode": "KUM", "name": "Kumbakonam" }
+        ]
+      },
+      {
+        "stateCode": "DL",
+        "name": "Delhi",
+        "cities": [
+          { "cityCode": "DEL", "name": "Delhi" },
+          { "cityCode": "NCR", "name": "New Delhi" }
+        ]
+    }
+]
